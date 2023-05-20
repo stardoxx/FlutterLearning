@@ -12,7 +12,7 @@ void main() => runApp(MaterialApp(
 
     floatingActionButton: FloatingActionButton(
       child: Text('Click'),
-      onPressed: null,
+      onPressed: null
     ),
 
   )
